@@ -1,0 +1,18 @@
+[
+  {
+    "package": "Rquefts",
+    "oncran": true
+  },
+  {
+    "package": "Rwofost",
+    "oncran": true
+  },
+  {
+    "package": "meteor",
+    "oncran": true
+  },
+  {
+    "package": "Recocrop",
+    "oncran": true
+  }
+]

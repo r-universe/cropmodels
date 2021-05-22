@@ -1,5 +1,25 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cropmodels/universe
 	shallow = true
 	branch = HEAD
+[submodule "Rquefts"]
+	path = Rquefts
+	url = https://github.com/cropmodels/Rquefts
+	shallow = true
+	registered = true
+[submodule "Rwofost"]
+	path = Rwofost
+	url = https://github.com/cropmodels/Rwofost
+	shallow = true
+	registered = true
+[submodule "meteor"]
+	path = meteor
+	url = https://github.com/cropmodels/meteor
+	shallow = true
+	registered = true
+[submodule "Recocrop"]
+	path = Recocrop
+	url = https://github.com/cropmodels/Recocrop
+	shallow = true
+	registered = true

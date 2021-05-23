@@ -12,6 +12,9 @@
     "oncran": true
   },
   {
+    "package": "pheonorice"
+  },
+  {
     "package": "Recocrop",
     "oncran": true
   }

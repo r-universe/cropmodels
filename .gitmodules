@@ -18,9 +18,9 @@
 	url = https://github.com/cropmodels/meteor
 	shallow = true
 	registered = true
-[submodule "pheonorice"]
-	path = pheonorice
-	url = https://github.com/cropmodels/pheonorice
+[submodule "phenorice"]
+	path = phenorice
+	url = https://github.com/cropmodels/phenorice
 	shallow = true
 	registered = true
 [submodule "Recocrop"]

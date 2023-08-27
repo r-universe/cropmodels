@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cropmodels/universe
 	branch = HEAD
+[submodule "Recocrop"]
+	path = Recocrop
+	url = https://github.com/cropmodels/Recocrop
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cropmodels/Rquefts
@@ -14,6 +17,3 @@
 [submodule "phenorice"]
 	path = phenorice
 	url = https://github.com/cropmodels/phenorice
-[submodule "Recocrop"]
-	path = Recocrop
-	url = https://github.com/cropmodels/Recocrop

@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/cropmodels/universe
+	url = https://github.com/cropmodels/cropmodels.r-universe.dev
 	branch = HEAD
 [submodule "Recocrop"]
 	path = Recocrop

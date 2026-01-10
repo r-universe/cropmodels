@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/cropmodels/cropmodels.r-universe.dev
 	branch = HEAD
+[submodule "LINTULcassava"]
+	path = LINTULcassava
+	url = https://github.com/cropmodels/LINTULcassava
 [submodule "Recocrop"]
 	path = Recocrop
 	url = https://github.com/cropmodels/Recocrop

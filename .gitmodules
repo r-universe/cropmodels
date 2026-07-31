@@ -8,6 +8,9 @@
 [submodule "Recocrop"]
 	path = Recocrop
 	url = https://github.com/cropmodels/Recocrop
+[submodule "Roryza"]
+	path = Roryza
+	url = https://github.com/cropmodels/Roryza
 [submodule "Rquefts"]
 	path = Rquefts
 	url = https://github.com/cropmodels/Rquefts
